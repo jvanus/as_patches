@@ -28,6 +28,7 @@ class Array
      end
   end
 
+  # I totally 100% copied this from Chad [https://github.com/cmolenda]
   def select_duplicates
     dolly = self.clone
     select do |e|
