@@ -10,7 +10,7 @@ A ruby mixin that extends the base Array object with some methods I find useful 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'jakes_dev_utils', :group => :development, git: 'git: 'git@github.com:jvanus/utilities.git''
+gem 'jakes_dev_utils', :group => :development, github: 'jvanus/utilities'
 ```
 
 And then execute:
